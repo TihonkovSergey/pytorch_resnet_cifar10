@@ -1,3 +1,7 @@
+# Application of consensus and gossip algorithms for distributed learning of neural networks.
+The `consensus_simple_example.ipynb` and `gossip_simple_example.ipynb` notebooks provide instructions on how to start the system using the consensus algorithm and the randomized gossip algorithm, respectively. They describe configurable system hyperparameters.
+
+
 # Proper ResNet Implementation for CIFAR10/CIFAR100 in Pytorch
 [Torchvision model zoo](https://github.com/pytorch/vision/tree/master/torchvision/models) provides number of implementations of various state-of-the-art architectures, however, most of them are defined and implemented for ImageNet.
 Usually it is straightforward to use the provided models on other datasets, but some cases require manual setup.
